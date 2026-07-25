@@ -22,6 +22,7 @@ log.txt
 **errorutil_analyze_errors.json
 **errorutil_analyze_summary.json
 **errorutil_errors_export.json
-.vscode
 .DS_Store
 
+config.bat
+node_modules
